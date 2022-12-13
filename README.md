@@ -8,7 +8,7 @@ A simple rust wrapper over native c++ code.
 
 ## Build
 
-A bit of debugging the resut is required, but running
+A bit of debugging the result is required, but running
 
 ```bash
 gcc -o ZZZx.cpp wrapper.cpp c_example.c
